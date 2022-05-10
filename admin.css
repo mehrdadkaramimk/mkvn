@@ -19,3 +19,13 @@ html,body{
     height: 80%;
 
 }
+#yellowsquare{
+    background-color: yellow;
+    width: 80%;
+    height: 80%;
+}
+#greensquare{
+    background-color: green;
+    width: 80%;
+    height: 80%;
+}
