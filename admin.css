@@ -18,21 +18,4 @@ html,body{
     width: 80%;
     height: 80%;
 
-<<<<<<< HEAD
-=======
-}
-#yellowsquare{
-    background-color: yellow;
-    width: 80%;
-    height: 80%;
-}
-#greensquare{
-    background-color: green;
-    width: 80%;
-    height: 80%;
-}
-a{
-    text-decoration: dashed;
-    color: blue;
->>>>>>> css_feature
 }
