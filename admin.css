@@ -19,3 +19,8 @@ html,body{
     height: 80%;
 
 }
+a{
+    text-decoration: dashed;
+    color: blanchedalmond;
+    font-size: large;
+}
