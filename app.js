@@ -4,3 +4,6 @@ alert("mehrdad karami how are you????")
 function math(a,b){
     returna/b
 }
+function myfunction(){
+    alert("hello word");
+}
