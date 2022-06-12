@@ -5,5 +5,5 @@ function math(a,b){
     returna/b
 }
 function myfunction(){
-    alert("hello word");
+    alert("hello word my name is mehrdad karami");
 }
